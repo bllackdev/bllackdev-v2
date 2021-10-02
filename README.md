@@ -1,5 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub last commit](https://img.shields.io/badge/last%20comit-may%202021-orange)](https://github.com/bllackdev/bllackdev-v2/commits)
+[![GitHub last commit](https://img.shields.io/badge/last%20comit-oct%202021-orange)](https://github.com/bllackdev/bllackdev-v2/commits)
 [![Next.js](https://img.shields.io/badge/NextJs-blue)](https://nextjs.org/)
 [![React.js](https://img.shields.io/badge/-ReactJs-blue)](https://pt-br.reactjs.org/)
 [![Typescript](https://img.shields.io/badge/-Typescript-blue)](https://www.typescriptlang.org/)
@@ -16,7 +16,7 @@
 # <strong>About the project</strong>
 
 <div align="center">
-    🚧
+    🚧 🚧 🚧
 </div>
 
 </br>
@@ -26,7 +26,7 @@
 # <strong>Instalation</strong>
 
 <div align="center">
-    🚧
+    🚧 🚧 🚧
 </div>
 
 </br>
@@ -40,10 +40,10 @@ Distributed under the MIT license. See `LICENSE` for more information.
 
 # **Contact**
 
-### Raphael Renato - **raphael.renatoo@gmaill.com**
+### Raphael Renato - **raphael.renatoo@gmail.com**
 
-[Github](https://github.com/renanlido) - **https://github.com/bllackdev** </br>
-[Linkedin](https://www.linkedin.com/in/renanlido/) - **https://www.linkedin.com/in/raphael-renato-724437128/**
+[Github](https://github.com/bllackdev) - **https://github.com/bllackdev** </br>
+[Linkedin](https://www.linkedin.com/in/raphael-renato-724437128/) - **https://www.linkedin.com/in/raphael-renato-724437128/**
 
 </br></br>
 Thanks for coming! 😊🤗
